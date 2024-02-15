@@ -1,0 +1,13 @@
+.outer-container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.inner-container {
+
+}
+
+.head {
+    background-color: slategrey
+}
